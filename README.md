@@ -1,4 +1,4 @@
-# Daily-Algorithm
+- LC 0131 Palindrome Partitioning - Backtracking + DP palindrome table# Daily-Algorithm
 
 My daily algorithm practice repository.
 
